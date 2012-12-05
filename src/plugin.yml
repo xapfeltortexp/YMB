@@ -1,0 +1,11 @@
+name: YMB
+version: 1.0.0
+author: DarkBlade12
+website: http://www.mineness.net
+
+main: YMB.YMB
+
+commands:
+  ymb:
+    description: General YMB Command
+    usage: /<command> [start|stop]
